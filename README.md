@@ -10,6 +10,7 @@ Link Dataset: [Ecommerce Dataset](https://www.kaggle.com/datasets/shriyashjagtap
 - Explore churn customer, and returned orders and identify patterns to reduce them
 - Execute market basket analysis to enhance cross-sell strategy
 - Track sale performance over time and in different categories and customer group
+  [Short Summary EDA](https://github.com/baotram237/Retail-analysis/blob/main/Short%20Summary.pdf)
 
 # Tasks: Using Python and Power BI
 - Data preprocessing
