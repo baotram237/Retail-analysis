@@ -20,6 +20,7 @@ Link Dataset: [Ecommerce Dataset](https://www.kaggle.com/datasets/shriyashjagtap
 
 # Data Model in Power BI
 ![image](https://github.com/baotram237/Retail-analysis/assets/82713550/65f87c3d-b2be-4fd6-8707-10ffe882e8c1)
+Some Metrics in the Project
 ![image](https://github.com/baotram237/Retail-analysis/assets/82713550/9a65dad4-94fc-4732-8567-7e1ca08cbbc7)
 
 
