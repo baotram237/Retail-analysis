@@ -4,7 +4,7 @@ My project uses Power BI and Python to analyze the performance of a retail compa
 
 Link Dataset: [Ecommerce Dataset](https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis) (Source Kaggle)
 
-# Our Objective:
+# Our Objective: Create Dashboard to track Sale performance, Customer analysis and purchase behaviour
 - Explore some metrics related to customers in different groups based on demographic features and purchasing behavior
 - Calculate customer lifetime value, RFM analysis to segment customer, suggest strategic plan for each group
 - Explore churn customer, and returned orders and identify patterns to reduce them
