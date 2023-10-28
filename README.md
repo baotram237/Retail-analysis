@@ -2,7 +2,7 @@
 **Market basket analysis, RFM analysis, Churn analysis, Return analysis, Sale performance, Customer Lifetime value analysis**
 My project uses Power BI and Python to analyze the performance of a retail company
 
-Link Dataset: [Ecommerce Dataset]([(https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis)https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis]) (Source Kaggle)
+Link Dataset: [Ecommerce Dataset](https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis) (Source Kaggle)
 
 # Our Objective:
 - Explore some metrics related to customers in different groups based on demographic features and purchasing behavior
