@@ -26,6 +26,13 @@ Some Metrics in the Project
 
 ![image](https://github.com/baotram237/Retail-analysis/assets/82713550/9a65dad4-94fc-4732-8567-7e1ca08cbbc7)
 
+# Sale Dashboard sample
+![image](https://github.com/baotram237/Retail-analysis/assets/82713550/e2364e4f-84db-4e44-b070-e47372f4c69a)
+![image](https://github.com/baotram237/Retail-analysis/assets/82713550/a1495596-e383-4438-92cc-8ed5a31711c5)
+![image](https://github.com/baotram237/Retail-analysis/assets/82713550/b8ae04ed-139d-4776-971e-bb448a53b9f1)
+
+
+
 
 
 
